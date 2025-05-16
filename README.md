@@ -29,6 +29,7 @@ To build a deep learning model that can predict stock prices by capturing tempor
 - Predicted vs. Actual Stock Prices  
 - Training vs. Validation Loss Curve
 
+![Prediction vs Actual](https://i.imgur.com/MB2EqvD.png)
 
 
 ## 🧠 Skills Demonstrated
